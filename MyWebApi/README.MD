@@ -2,6 +2,9 @@ Julia Lebedzeva
 8658087
 11/18/2024
 
+**GitHub Repo**
+https://github.com/JLebedzeva/JLebedzevaA2
+
 **API endpoints**
 for greet: /api/greet
 for all times of day: /api/getAllTimesOfDay
