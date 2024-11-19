@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pc\\Desktop\\school\\JLebedzeva_A1\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\pc\\Desktop\\school\\JLebedzeva_A1 - Copy (2)\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pc\\Desktop\\school\\JLebedzeva_A1\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\pc\\Desktop\\school\\JLebedzeva_A1 - Copy (2)\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pc\\Desktop\\school\\JLebedzeva_A1\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\Desktop\\school\\JLebedzeva_A1 - Copy (2)\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\pc\\Desktop\\school\\JLebedzeva_A1\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\pc\\Desktop\\school\\JLebedzeva_A1 - Copy (2)\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pc\\Desktop\\school\\JLebedzeva_A1\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\pc\\Desktop\\school\\JLebedzeva_A1 - Copy (2)\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
