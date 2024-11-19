@@ -1,8 +1,34 @@
-**Swagger UI Url**
- http://localhost:5170/swagger/index.html
+Julia Lebedzeva
+8658087
+11/18/2024
+
+**API endpoints**
+for greet: /api/greet
+for all times of day: /api/getAllTimesOfDay
+for all supported languages: /api/getSupportedLanguages
+**Full URLs**
+http://localhost:8080/api/greet
+http://localhost:8080/api/getAllTimesOfDay
+http://localhost:8080/api/getSupportedLanguages
 
 
+
+**Using Postman**
 **JSON Response from Greet endpoint**
 {
-  "greetingMessage": "Good Morning!"
+    "GreetingMessage": "Afternoon!"
 }
+
+**JSON Response from getAllTimesOfDay endpoint**
+[
+    "Morning",
+    "Afternoon",
+    "Evening"
+]
+
+**JSON Response from getSupportedLanguages endpoint**
+[
+    "English",
+    "French",
+    "Spanish"
+]
