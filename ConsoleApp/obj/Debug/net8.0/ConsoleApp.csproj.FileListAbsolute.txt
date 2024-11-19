@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\pc\Desktop\school\JLebedzeva_A1\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
