@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "fdfb1b80-3989-4727-8362-3992b2205c1d",
+		"name": "A2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "33955042"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"TimeOfDay\": \"Afternoon\",\r\n    \"Language\": \"English\",\r\n    \"Tone\": \"Casual\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "http://localhost:8080/api/greet"
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

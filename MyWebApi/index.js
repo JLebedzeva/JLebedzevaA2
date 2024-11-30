@@ -1,6 +1,6 @@
 /*
   Julia Lebedzeva
-  Assignment 2
+  Assignment 3
   8658087
   11/18/2024
 */
@@ -10,7 +10,7 @@ const sqlite = require('sqlite');
 const sqlite3 = require('sqlite3');
 const path = require('path');
 const app = express(); 
-
+module.exports = app;
 const HTTP_PORT = process.env.PORT || 8080;
 
 app.use(express.json());

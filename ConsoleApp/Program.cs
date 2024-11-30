@@ -1,4 +1,10 @@
-﻿using System.Net.Http;
+﻿/*
+    Julia Lebedzeva
+    8658087
+    A2
+    11/18/2024
+*/
+using System.Net.Http;
 using System.Net.Http.Json;
 using System.Text.Json;
 using ConsoleApp.Models;
